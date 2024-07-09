@@ -1,0 +1,981 @@
+Found HID class devices!, writting details...
+HID device (vID=0x0b0e, pID=0x2476, v=0x0006); Unknown manufacturer; Jabra Speak 710, Path: \\?\hid#vid_0b0e&pid_2476&mi_03&col03#7&2a06ab96&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Path:      \\?\hid#vid_0b0e&pid_2476&mi_03&col03#7&2a06ab96&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Instance:  HID\VID_0B0E&PID_2476&MI_03&COL03\7&2A06AB96&0&0002
+
+  Port (ID): 16
+
+  Port (str):USB\VID_0B0E&PID_2476&MI_03\6&26DCE6C4&0&0003
+
+HID device documentation report
+===============================
+
+Top Level Details
+-----------------
+
+Manufacturer String:    Unknown manufacturer
+Product Sting:          Jabra Speak 710
+Serial Number:          745C4B5D668A
+
+Vendor ID:              0x0b0e
+Product ID:             0x2476
+Version number:         0x0006
+
+Device Path:            \\?\hid#vid_0b0e&pid_2476&mi_03&col03#7&2a06ab96&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Device Instance Id:     HID\VID_0B0E&PID_2476&MI_03&COL03\7&2A06AB96&0&0002
+Parent Instance Id:     16
+
+Top level usage:        Page=0x000c, Usage=0x01
+Usage identification:   Consumer device, Consumer Control usage
+Link collections:       1 collection(s)
+
+Reports
+-------
+
+Input Report
+~~~~~~~~~~~~
+Length:     3 byte(s)
+Buttons:    3 button(s)
+Values:     0 value(s)
+
+Output Report
+~~~~~~~~~~~~~
+length:     0 byte(s)
+Buttons:    0 button(s)
+Values:     0 value(s)
+
+Feature Report
+~~~~~~~~~~~~~
+Length:     0 byte(s)
+Buttons:    0 button(s)
+Values:     0 value(s)
+
+*** Input Caps ***
+
+    Usage 226 (0xe2), Page 0xc
+    (Consumer device, Mute usage)
+        bit_field: 2
+        data_index: 0
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 12 (0xc)
+        report_id: 1
+        string_index: 0
+
+    Usage 233 (0xe9), Page 0xc
+    (Consumer device, Volume Increment usage)
+        bit_field: 2
+        data_index: 1
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 12 (0xc)
+        report_id: 1
+        string_index: 0
+
+    Usage 234 (0xea), Page 0xc
+    (Consumer device, Volume Decrement usage)
+        bit_field: 2
+        data_index: 2
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 12 (0xc)
+        report_id: 1
+        string_index: 0
+
+HID device (vID=0x0b0e, pID=0x2476, v=0x0006); Unknown manufacturer; Jabra Speak 710, Path: \\?\hid#vid_0b0e&pid_2476&mi_03&col04#7&2a06ab96&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Path:      \\?\hid#vid_0b0e&pid_2476&mi_03&col04#7&2a06ab96&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Instance:  HID\VID_0B0E&PID_2476&MI_03&COL04\7&2A06AB96&0&0003
+
+  Port (ID): 16
+
+  Port (str):USB\VID_0B0E&PID_2476&MI_03\6&26DCE6C4&0&0003
+
+HID device documentation report
+===============================
+
+Top Level Details
+-----------------
+
+Manufacturer String:    Unknown manufacturer
+Product Sting:          Jabra Speak 710
+Serial Number:          745C4B5D668A
+
+Vendor ID:              0x0b0e
+Product ID:             0x2476
+Version number:         0x0006
+
+Device Path:            \\?\hid#vid_0b0e&pid_2476&mi_03&col04#7&2a06ab96&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Device Instance Id:     HID\VID_0B0E&PID_2476&MI_03&COL04\7&2A06AB96&0&0003
+Parent Instance Id:     16
+
+Top level usage:        Page=0xff9a, Usage=0x01
+Usage identification:   Unknown Page/usage
+Link collections:       1 collection(s)
+
+Reports
+-------
+
+Input Report
+~~~~~~~~~~~~
+Length:     0 byte(s)
+Buttons:    0 button(s)
+Values:     0 value(s)
+
+Output Report
+~~~~~~~~~~~~~
+length:     0 byte(s)
+Buttons:    0 button(s)
+Values:     0 value(s)
+
+Feature Report
+~~~~~~~~~~~~~
+Length:     64 byte(s)
+Buttons:    0 button(s)
+Values:     1 value(s)
+
+*** Feature Caps ***
+
+    Usage 1 (0x1), Page 0xff9a
+    (Unknown Page/usage)
+        bit_field: 258
+        bit_size: 8
+        data_index: 0
+        designator_index: 0
+        has_null: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: False
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: True
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65434 (0xff9a)
+        logical_max: 255
+        logical_min: 0
+        physical_max: 0
+        physical_min: 0
+        report_count: 63
+        report_id: 154
+        string_index: 0
+        units: 0
+        units_exp: 0
+
+HID device (vID=0x0b0e, pID=0x2476, v=0x0006); Unknown manufacturer; Jabra Speak 710, Path: \\?\hid#vid_0b0e&pid_2476&mi_03&col01#7&2a06ab96&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Path:      \\?\hid#vid_0b0e&pid_2476&mi_03&col01#7&2a06ab96&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Instance:  HID\VID_0B0E&PID_2476&MI_03&COL01\7&2A06AB96&0&0000
+
+  Port (ID): 16
+
+  Port (str):USB\VID_0B0E&PID_2476&MI_03\6&26DCE6C4&0&0003
+
+HID device documentation report
+===============================
+
+Top Level Details
+-----------------
+
+Manufacturer String:    Unknown manufacturer
+Product Sting:          Jabra Speak 710
+Serial Number:          745C4B5D668A
+
+Vendor ID:              0x0b0e
+Product ID:             0x2476
+Version number:         0x0006
+
+Device Path:            \\?\hid#vid_0b0e&pid_2476&mi_03&col01#7&2a06ab96&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Device Instance Id:     HID\VID_0B0E&PID_2476&MI_03&COL01\7&2A06AB96&0&0000
+Parent Instance Id:     16
+
+Top level usage:        Page=0x000b, Usage=0x05
+Usage identification:   Telephony device, Headset usage
+Link collections:       2 collection(s)
+
+Reports
+-------
+
+Input Report
+~~~~~~~~~~~~
+Length:     3 byte(s)
+Buttons:    8 button(s)
+Values:     0 value(s)
+
+Output Report
+~~~~~~~~~~~~~
+length:     3 byte(s)
+Buttons:    6 button(s)
+Values:     0 value(s)
+
+Feature Report
+~~~~~~~~~~~~~
+Length:     0 byte(s)
+Buttons:    0 button(s)
+Values:     0 value(s)
+
+*** Input Caps ***
+
+    Usage 151 (0x97), Page 0xb
+    (Telephony device, Line Busy Tone usage)
+        bit_field: 35
+        data_index: 0
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 32 (0x20), Page 0xb
+    (Telephony device, Hook Switch usage)
+        bit_field: 35
+        data_index: 1
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 80 (0x50), Page 0xb
+    (Telephony device, Speed Dial usage)
+        bit_field: 7
+        data_index: 2
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 112 (0x70), Page 0xb
+    (Telephony device, Voice Mail usage)
+        bit_field: 7
+        data_index: 3
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 33 (0x21), Page 0xb
+    (Telephony device, Flash usage)
+        bit_field: 7
+        data_index: 4
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 47 (0x2f), Page 0xb
+    (Telephony device, Phone Mute usage)
+        bit_field: 7
+        data_index: 5
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage Range 176~187 (0xb0~0xbb), Page 0xb (Telephony)
+        bit_field: 64
+        data_index_max: 17
+        data_index_min: 6
+        designator_max: 0
+        designator_min: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 1
+        is_string_range: 0
+        is_value: False
+        link_collection: 1
+        link_usage: 6 (0x6)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_max: 0
+        string_min: 0
+
+    Usage 7 (0x7), Page 0x9
+    (Unknown Page/usage)
+        bit_field: 2
+        data_index: 18
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+*** Output Caps ***
+
+    Usage 33 (0x21), Page 0x8
+    (LED device, Microphone usage)
+        bit_field: 34
+        data_index: 0
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 32 (0x20), Page 0x8
+    (LED device, Hold usage)
+        bit_field: 34
+        data_index: 1
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 24 (0x18), Page 0x8
+    (LED device, Ring usage)
+        bit_field: 34
+        data_index: 2
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 9 (0x9), Page 0x8
+    (LED device, Mute usage)
+        bit_field: 34
+        data_index: 3
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 23 (0x17), Page 0x8
+    (LED device, Off-Hook usage)
+        bit_field: 34
+        data_index: 4
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+    Usage 158 (0x9e), Page 0xb
+    (Telephony device, Ringer usage)
+        bit_field: 34
+        data_index: 5
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 5 (0x5)
+        link_usage_page: 11 (0xb)
+        report_id: 2
+        string_index: 0
+
+HID device (vID=0x0b0e, pID=0x2476, v=0x0006); Unknown manufacturer; Jabra Speak 710, Path: \\?\hid#vid_0b0e&pid_2476&mi_03&col05#7&2a06ab96&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Path:      \\?\hid#vid_0b0e&pid_2476&mi_03&col05#7&2a06ab96&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Instance:  HID\VID_0B0E&PID_2476&MI_03&COL05\7&2A06AB96&0&0004
+
+  Port (ID): 16
+
+  Port (str):USB\VID_0B0E&PID_2476&MI_03\6&26DCE6C4&0&0003
+
+HID device documentation report
+===============================
+
+Top Level Details
+-----------------
+
+Manufacturer String:    Unknown manufacturer
+Product Sting:          Jabra Speak 710
+Serial Number:          745C4B5D668A
+
+Vendor ID:              0x0b0e
+Product ID:             0x2476
+Version number:         0x0006
+
+Device Path:            \\?\hid#vid_0b0e&pid_2476&mi_03&col05#7&2a06ab96&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Device Instance Id:     HID\VID_0B0E&PID_2476&MI_03&COL05\7&2A06AB96&0&0004
+Parent Instance Id:     16
+
+Top level usage:        Page=0x0009, Usage=0x01
+Usage identification:   Unknown Page/usage
+Link collections:       1 collection(s)
+
+Reports
+-------
+
+Input Report
+~~~~~~~~~~~~
+Length:     2 byte(s)
+Buttons:    1 button(s)
+Values:     0 value(s)
+
+Output Report
+~~~~~~~~~~~~~
+length:     0 byte(s)
+Buttons:    0 button(s)
+Values:     0 value(s)
+
+Feature Report
+~~~~~~~~~~~~~
+Length:     0 byte(s)
+Buttons:    0 button(s)
+Values:     0 value(s)
+
+*** Input Caps ***
+
+    Usage 1 (0x1), Page 0x9
+    (Unknown Page/usage)
+        bit_field: 2
+        data_index: 0
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 9 (0x9)
+        report_id: 155
+        string_index: 0
+
+HID device (vID=0x0b0e, pID=0x2476, v=0x0006); Unknown manufacturer; Jabra Speak 710, Path: \\?\hid#vid_0b0e&pid_2476&mi_03&col02#7&2a06ab96&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Path:      \\?\hid#vid_0b0e&pid_2476&mi_03&col02#7&2a06ab96&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+
+  Instance:  HID\VID_0B0E&PID_2476&MI_03&COL02\7&2A06AB96&0&0001
+
+  Port (ID): 16
+
+  Port (str):USB\VID_0B0E&PID_2476&MI_03\6&26DCE6C4&0&0003
+
+HID device documentation report
+===============================
+
+Top Level Details
+-----------------
+
+Manufacturer String:    Unknown manufacturer
+Product Sting:          Jabra Speak 710
+Serial Number:          745C4B5D668A
+
+Vendor ID:              0x0b0e
+Product ID:             0x2476
+Version number:         0x0006
+
+Device Path:            \\?\hid#vid_0b0e&pid_2476&mi_03&col02#7&2a06ab96&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}
+Device Instance Id:     HID\VID_0B0E&PID_2476&MI_03&COL02\7&2A06AB96&0&0001
+Parent Instance Id:     16
+
+Top level usage:        Page=0xff00, Usage=0x01
+Usage identification:   Unknown Page/usage
+Link collections:       2 collection(s)
+
+Reports
+-------
+
+Input Report
+~~~~~~~~~~~~
+Length:     64 byte(s)
+Buttons:    9 button(s)
+Values:     1 value(s)
+
+Output Report
+~~~~~~~~~~~~~
+length:     64 byte(s)
+Buttons:    6 button(s)
+Values:     1 value(s)
+
+Feature Report
+~~~~~~~~~~~~~
+Length:     2 byte(s)
+Buttons:    1 button(s)
+Values:     0 value(s)
+
+*** Input Caps ***
+
+    Usage 151 (0x97), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 35
+        data_index: 1
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 32 (0x20), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 35
+        data_index: 2
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 80 (0x50), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 7
+        data_index: 3
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 112 (0x70), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 7
+        data_index: 4
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 65533 (0xfffd), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 7
+        data_index: 5
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 33 (0x21), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 7
+        data_index: 6
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 47 (0x2f), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 7
+        data_index: 7
+        designator_index: 0
+        is_absolute: 0
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage Range 176~187 (0xb0~0xbb), Page 0xff30 (Vendor-defined)
+        bit_field: 64
+        data_index_max: 19
+        data_index_min: 8
+        designator_max: 0
+        designator_min: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 1
+        is_string_range: 0
+        is_value: False
+        link_collection: 1
+        link_usage: 6 (0x6)
+        link_usage_page: 65328 (0xff30)
+        report_id: 4
+        string_max: 0
+        string_min: 0
+
+    Usage 65532 (0xfffc), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 35
+        data_index: 20
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 1 (0x1), Page 0xff00
+    (Unknown Page/usage)
+        bit_field: 258
+        bit_size: 8
+        data_index: 0
+        designator_index: 0
+        has_null: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: False
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: True
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        logical_max: 255
+        logical_min: 0
+        physical_max: 0
+        physical_min: 0
+        report_count: 63
+        report_id: 5
+        string_index: 0
+        units: 0
+        units_exp: 0
+
+*** Output Caps ***
+
+    Usage 33 (0x21), Page 0xff40
+    (Unknown Page/usage)
+        bit_field: 34
+        data_index: 1
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 32 (0x20), Page 0xff40
+    (Unknown Page/usage)
+        bit_field: 34
+        data_index: 2
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 24 (0x18), Page 0xff40
+    (Unknown Page/usage)
+        bit_field: 34
+        data_index: 3
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 9 (0x9), Page 0xff40
+    (Unknown Page/usage)
+        bit_field: 34
+        data_index: 4
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 23 (0x17), Page 0xff40
+    (Unknown Page/usage)
+        bit_field: 34
+        data_index: 5
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 158 (0x9e), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 34
+        data_index: 6
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+    Usage 1 (0x1), Page 0xff00
+    (Unknown Page/usage)
+        bit_field: 258
+        bit_size: 8
+        data_index: 0
+        designator_index: 0
+        has_null: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: False
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: True
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        logical_max: 255
+        logical_min: 0
+        physical_max: 0
+        physical_min: 0
+        report_count: 63
+        report_id: 5
+        string_index: 0
+        units: 0
+        units_exp: 0
+
+*** Feature Caps ***
+
+    Usage 65535 (0xffff), Page 0xff30
+    (Unknown Page/usage)
+        bit_field: 34
+        data_index: 0
+        designator_index: 0
+        is_absolute: 1
+        is_alias: 0
+        is_button: True
+        is_designator_range: 0
+        is_range: 0
+        is_string_range: 0
+        is_value: False
+        link_collection: 0
+        link_usage: 1 (0x1)
+        link_usage_page: 65280 (0xff00)
+        report_id: 4
+        string_index: 0
+
+done!
+None
