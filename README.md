@@ -1,4 +1,4 @@
-# USB_HID_Automation
+# USB_HID_Peripheral_Automation
 
 Download and install libusb-win32-devel-filter
 
